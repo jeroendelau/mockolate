@@ -1,0 +1,15 @@
+{
+    "name": "jeroendelau/mockolate",
+    "extra": {
+		"as-source-path":"mockolate/src",
+		"as-lib":[
+			"mockolate/libs/Floxy.swc",
+			"mockolate/libs/as3-commons-bytecode.swc",
+			"mockolate/libs/as3-commons-lang.swc",
+			"mockolate/libs/as3-commons-logging.swc",
+			"mockolate/libs/as3-commons-reflect.swc",
+			"mockolate/libs/asx.swc"
+		]
+		
+    }
+}
